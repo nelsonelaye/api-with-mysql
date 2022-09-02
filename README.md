@@ -35,4 +35,4 @@ mysqlConnection.query(sql, [fullname, age, email, id], (err, result) => {
 
 ## Helpful Links
 
-[Build a REST API with Node JS Express + MySQL CRUD - Create, Read, Update and Delete](https://youtu.be/tMZ2UEQxidM)
+[Youtube](https://youtu.be/tMZ2UEQxidM)
