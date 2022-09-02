@@ -6,7 +6,9 @@ This is actually my first REST API using MySQL database. Here is a simple API th
 
 ## Challenges
 
-While I took time to learn the syntax of using SQL statements to interact with MySQL database, I faced a challenge while buildin the API - I was finding it difficult to implement the UPDATE operation where a user can edit a specific data.
+While I took time to learn the syntax of using SQL statements to interact with MySQL database, I faced a challenge while building the API.
+
+I was finding it difficult to implement the UPDATE operation where a user can edit a specific data.
 
 I solved this challenge using:
 
