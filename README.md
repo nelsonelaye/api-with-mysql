@@ -1,4 +1,4 @@
-# REST API WITH MYSQL
+# REST API with MySQL
 
 ## Description
 
